@@ -34,3 +34,9 @@ Prettier is run as a pre-commit script, I also like to format on save and paste:
 "editor.formatOnSave": true,
 "editor.formatOnPaste": true,
 ``` 
+
+##TO RUN THE CODE:
+Download the project 
+run Command 1: npm install 
+run Command 2: npm start
+
