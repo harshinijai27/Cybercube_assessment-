@@ -1,0 +1,6 @@
+{
+  "extends": "tslint-config-jhorst-react",
+  "rules": {
+    "no-console": false
+  }
+}
